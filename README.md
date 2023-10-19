@@ -21,6 +21,10 @@
     https://www.freecodecamp.org/learn/2022/responsive-web-design/
     18.10
     | HTML/CSS 챗 페이지 만들기
+    19.10
+    | Chainlit 사용한 Llama2 model 만들기
+    | db 만들기
+
 
 ## 웅호
     16.10
@@ -30,6 +34,8 @@
     | PPT/Documentation
     18.10
     | PPT/Documentation
+    19.10
+    | ---
 
 ## 막심
     16.10
@@ -41,7 +47,11 @@
     https://www.youtube.com/watch?v=EWKbZFqiCsE
     18.10
     | 챗봇 모델 만들기
+    19.10
+    | Debugging..
 
 ## 지민
     18.10
     | 발표 준비
+    19.10
+    | ---
